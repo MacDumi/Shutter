@@ -1,0 +1,9 @@
+Electromechanical shutter is used to "open/close" the output opening of a pulsed laser between laser 
+pulses. This allows nt to "cut he first and the last laser pulse while opening the shutter manually.
+
+The shutter itself is made around a solenoid. The driver of the shutter allows not only to open/close 
+it but also to let through the shutter a user-defined number of laser pulses.
+
+The code is here, the schematic is in the subdirectory
+
+Enjoy!
